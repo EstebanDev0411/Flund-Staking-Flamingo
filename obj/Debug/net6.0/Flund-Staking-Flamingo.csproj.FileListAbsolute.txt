@@ -1,0 +1,5 @@
+E:\project\neo-blockchain\Flund-Staking-Flamingo\obj\Debug\net6.0\Flund-Staking-Flamingo.csproj.AssemblyReference.cache
+E:\project\neo-blockchain\Flund-Staking-Flamingo\obj\Debug\net6.0\Flund-Staking-Flamingo.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\neo-blockchain\Flund-Staking-Flamingo\obj\Debug\net6.0\Flund-Staking-Flamingo.AssemblyInfoInputs.cache
+E:\project\neo-blockchain\Flund-Staking-Flamingo\obj\Debug\net6.0\Flund-Staking-Flamingo.AssemblyInfo.cs
+E:\project\neo-blockchain\Flund-Staking-Flamingo\obj\Debug\net6.0\Flund-Staking-Flamingo.csproj.CoreCompileInputs.cache

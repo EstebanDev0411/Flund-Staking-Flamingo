@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n2lmHx6djmmVMraQz3Nv7062CgRh12Lg9Uo+LdyYJbYoQeVSc979k4cPuJ1jCFVMLEjrbqf9Wr0Dnzb08DIAGQ==",
+  "success": true,
+  "projectFilePath": "E:\\project\\neo-blockchain\\Flund-Staking-Flamingo\\Flund-Staking-Flamingo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\neo.smartcontract.framework\\3.5.0\\neo.smartcontract.framework.3.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\neo3.compiler.csharp.dev\\3.5.0\\neo3.compiler.csharp.dev.3.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
